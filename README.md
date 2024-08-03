@@ -1,0 +1,3 @@
+For fetch the job details of all information of customer using jobid or meterid. 
+version - v1 
+in progress.....
